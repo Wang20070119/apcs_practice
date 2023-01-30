@@ -18,8 +18,7 @@ int main()
     for(i=0;i<5;i++){
         scanf("%d", &a[i]);
     }
-    printf("the max of a[] = %d" max)
+    printf("the max of a[] = %d" find_max(a,n))
     
     return 0;
 }
-    
